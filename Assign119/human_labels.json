@@ -1,0 +1,146 @@
+{
+ "N01": {
+  "reasoning": 2,
+  "completeness": 2,
+  "helpfulness": 2,
+  "instruction_following": 2
+ },
+ "N02": {
+  "reasoning": 2,
+  "completeness": 2,
+  "helpfulness": 2,
+  "instruction_following": 2
+ },
+ "N03": {
+  "reasoning": 2,
+  "completeness": 2,
+  "helpfulness": 2,
+  "instruction_following": 2
+ },
+ "N04": {
+  "reasoning": 2,
+  "completeness": 2,
+  "helpfulness": 2,
+  "instruction_following": 2
+ },
+ "N05": {
+  "reasoning": 2,
+  "completeness": 2,
+  "helpfulness": 2,
+  "instruction_following": 2
+ },
+ "N06": {
+  "reasoning": 2,
+  "completeness": 2,
+  "helpfulness": 2,
+  "instruction_following": 2
+ },
+ "N07": {
+  "reasoning": 2,
+  "completeness": 2,
+  "helpfulness": 2,
+  "instruction_following": 2
+ },
+ "E01": {
+  "reasoning": 2,
+  "completeness": 2,
+  "helpfulness": 2,
+  "instruction_following": 2
+ },
+ "E02": {
+  "reasoning": 2,
+  "completeness": 2,
+  "helpfulness": 2,
+  "instruction_following": 2
+ },
+ "E03": {
+  "reasoning": 2,
+  "completeness": 2,
+  "helpfulness": 2,
+  "instruction_following": 2
+ },
+ "E04": {
+  "reasoning": 2,
+  "completeness": 2,
+  "helpfulness": 2,
+  "instruction_following": 2
+ },
+ "E05": {
+  "reasoning": 1,
+  "completeness": 2,
+  "helpfulness": 2,
+  "instruction_following": 2
+ },
+ "E06": {
+  "reasoning": 2,
+  "completeness": 2,
+  "helpfulness": 2,
+  "instruction_following": 2
+ },
+ "F01": {
+  "reasoning": 2,
+  "completeness": 2,
+  "helpfulness": 2,
+  "instruction_following": 2
+ },
+ "F02": {
+  "reasoning": 2,
+  "completeness": 2,
+  "helpfulness": 2,
+  "instruction_following": 2
+ },
+ "F03": {
+  "reasoning": 2,
+  "completeness": 2,
+  "helpfulness": 2,
+  "instruction_following": 2
+ },
+ "F04": {
+  "reasoning": 2,
+  "completeness": 2,
+  "helpfulness": 2,
+  "instruction_following": 2
+ },
+ "F05": {
+  "reasoning": 2,
+  "completeness": 2,
+  "helpfulness": 2,
+  "instruction_following": 2
+ },
+ "F06": {
+  "reasoning": 2,
+  "completeness": 1,
+  "helpfulness": 2,
+  "instruction_following": 2
+ },
+ "A01": {
+  "reasoning": 2,
+  "completeness": 2,
+  "helpfulness": 2,
+  "instruction_following": 2
+ },
+ "A02": {
+  "reasoning": 2,
+  "completeness": 2,
+  "helpfulness": 2,
+  "instruction_following": 2
+ },
+ "A03": {
+  "reasoning": 2,
+  "completeness": 2,
+  "helpfulness": 2,
+  "instruction_following": 2
+ },
+ "A04": {
+  "reasoning": 2,
+  "completeness": 2,
+  "helpfulness": 2,
+  "instruction_following": 2
+ },
+ "A05": {
+  "reasoning": 2,
+  "completeness": 2,
+  "helpfulness": 2,
+  "instruction_following": 2
+ }
+}
